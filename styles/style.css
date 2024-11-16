@@ -352,15 +352,12 @@
   justify-content: space-between;
 }
 
-.footer__right-columns {
-  display: flex;
-  gap: 80px;
-}
-
 .footer__column_content_hours {
+  margin-left: auto;
 }
 
 .footer__column_content_social {
+  margin-left: 80px;
 }
 
 .footer__logo {
